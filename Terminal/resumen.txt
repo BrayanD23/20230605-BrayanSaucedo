@@ -1,0 +1,7 @@
+5 comandos aprendidos en clase:
+-mkdir: para crear carpetas o directorios
+-git init: para iniciar un repositorio remoto
+-clear: para limpiar la pantalla de la terminal
+-cd: para moverte entre directorios
+-mv: para mover archivos o renombrarlos
+

@@ -1,0 +1,5 @@
+3 partes internas de una computadora:
+-CPU o procesador
+-RAM o memoria de acceso aleatorio
+-Motherboard
+
