@@ -1,0 +1,4 @@
+git init, git config.user, git config.email
+git branch, git push origin, clear, mkdir
+touch, git remote add, git commit -m, git status
+git add ., mv, nano, git checkout, cd, ls, ls-a,clear
